@@ -1,0 +1,15 @@
+{
+    "id": "openclaw-rc-app",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "ryaverma",
+        "homepage": "https://github.com/ryaverma",
+        "support": "https://github.com/ryaverma"
+    },
+    "name": "OpenClaw RC App",
+    "description": "OpenClaw integration for Rocket.Chat",
+    "classFile": "OpenClawRocketChatAppApp.ts",
+    "createdAt": "2026-03-14T00:00:00.000Z"
+}
